@@ -19,6 +19,14 @@ public class App
 
         mathOperations.divide(53, 13);
 
+        mathOperations.sum(2.3, 3.6);
+
+        mathOperations.difference(800,376);
+
+        mathOperations.multiplication(265.3, 563.4);
+
+        mathOperations.divide(54.7, 33.4);
+
 
     }
 
